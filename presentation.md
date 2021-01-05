@@ -1,2 +1,4 @@
-https://youtu.be/zTHl1up9Eww
-https://github.com/KotShiro/Presentation
+# a link to YouTube video
+- https://youtu.be/zTHl1up9Eww
+# a link to presentation
+- https://kotshiro.github.io/Presentation/
